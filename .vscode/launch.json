@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "SpotOn Debug",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "debug",
+      "args": [
+        "--dart-define=SUPABASE_URL=https://kdiiotfgrtwgwydefoms.supabase.co",
+        "sb_publishable_RR5z8vNad7riMAS3HNtZlg_8pImAvnx"
+      ]
+    }
+  ]
+}
